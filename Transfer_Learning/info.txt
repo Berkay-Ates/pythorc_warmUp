@@ -1,0 +1,14 @@
+Transfer learning is a machine learning method it is something like that we trained a model and changed the model to classify 
+completely different things. 
+
+
+
+
+
+
+
+
+
+
+
+

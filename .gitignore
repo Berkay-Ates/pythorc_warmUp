@@ -1,0 +1,5 @@
+.venv
+data
+Tensorboard
+model.pth
+wine.csv
